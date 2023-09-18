@@ -1,7 +1,5 @@
 <div align="center">
 
-[![ircChat](https://github-readme-stats.vercel.app/api/pin/?username=dvsloth&repo=VoidChat&theme=dark)](https://github.com/dvsloth/VoidChat) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvsloth&layout=compact&theme=dark)](https://github.com/dvsloth)
 
 </div>
